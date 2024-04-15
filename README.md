@@ -134,7 +134,11 @@ void loop()
 
 
 # OUTPUT:
+## THINGSPEAK
 <img src="https://github.com/naveen-m0804/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117974950/c5bdef95-651e-4927-8003-5bbdf11885b9" alt="alt text" width="500" height="300" class="center">
+
+## SERIAL MONITOR
+<img src="https://github.com/Udhayasankaran04/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119393933/b39f1e10-cb03-424b-bd9d-ebffbd538329" width="500" height="300">
 
 # RESULT:
 
